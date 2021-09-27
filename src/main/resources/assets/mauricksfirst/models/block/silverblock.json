@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mauricksfirst:blocks/zilverblock",
+    "up": "mauricksfirst:blocks/zilverblock",
+    "north": "mauricksfirst:blocks/zilverblock",
+    "east": "mauricksfirst:blocks/zilverblock",
+    "south": "mauricksfirst:blocks/zilverblock",
+    "west": "mauricksfirst:blocks/zilverblock",
+    "particle": "mauricksfirst:blocks/zilverblock"
+  }
+}

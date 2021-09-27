@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hamer",
+    "customModelName": "Normal",
+    "name": "Hamer",
+    "specialInfo": [
+      "its so strong dat it kan kill a player in one hit"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 7.0,
+    "attackSpeed": 4.0,
+    "enchantability": 46,
+    "damageVsEntity": 25.0,
+    "usageCount": 2576,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.CAKE"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true,
+    "onRightClickedOnBlock": {
+      "name": "ZilverItemIsCrafted"
+    },
+    "onCrafted": {
+      "name": "ZilverItemIsCrafted"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "ZilverItemIsCrafted"
+    },
+    "onEntitySwing": {
+      "name": "ZilverItemIsCrafted"
+    }
+  }
+}

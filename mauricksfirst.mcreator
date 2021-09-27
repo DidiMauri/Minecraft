@@ -1,10 +1,74 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Zilver",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zilver"
+    },
+    {
+      "name": "ZilverItemIsCrafted",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zilver_item_is_crafted",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Silverblock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silverblock"
+    },
+    {
+      "name": "Hamer",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hamer"
+    },
+    {
+      "name": "Bleugrassblock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bleugrassblock"
+    },
+    {
+      "name": "Bleuleave",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bleuleave"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.mauricksfirst.silverblock": "Silverblock",
+      "item.mauricksfirst.zilver": "Zilver",
+      "block.mauricksfirst.bleugrassblock": "Bleugrassblock",
+      "block.mauricksfirst.bleuleave": "Bleuleave",
+      "item.mauricksfirst.hamer": "Hamer"
+    }
   },
   "foldersRoot": {
     "name": "~",

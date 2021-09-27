@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mauricksfirst:blocks/bleu_wood",
+    "up": "mauricksfirst:blocks/bleu_wood",
+    "north": "mauricksfirst:blocks/bleu_wood",
+    "east": "mauricksfirst:blocks/bleu_wood",
+    "south": "mauricksfirst:blocks/bleu_wood",
+    "west": "mauricksfirst:blocks/bleu_wood",
+    "particle": "mauricksfirst:blocks/bleu_wood"
+  }
+}
