@@ -13,7 +13,7 @@
     {
       "name": "ZilverItemIsCrafted",
       "type": "procedure",
-      "sortid": 1,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -34,7 +34,7 @@
     {
       "name": "Hamer",
       "type": "tool",
-      "sortid": 3,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -43,7 +43,7 @@
     {
       "name": "Bleugrassblock",
       "type": "block",
-      "sortid": 4,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -52,11 +52,29 @@
     {
       "name": "Bleuleave",
       "type": "block",
-      "sortid": 5,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "bleuleave"
+    },
+    {
+      "name": "Diamantapple",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamantapple"
+    },
+    {
+      "name": "Cupbord",
+      "type": "loottable",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cupbord"
     }
   ],
   "variable_elements": [],
@@ -64,6 +82,7 @@
   "language_map": {
     "en_us": {
       "block.mauricksfirst.silverblock": "Silverblock",
+      "item.mauricksfirst.diamantapple": "Diamantapple",
       "item.mauricksfirst.zilver": "Zilver",
       "block.mauricksfirst.bleugrassblock": "Bleugrassblock",
       "block.mauricksfirst.bleuleave": "Bleuleave",

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamant_apple",
+    "customModelName": "Normal",
+    "name": "Diamantapple",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "its better tthan a notch apple"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 30,
+    "saturation": 0.3,
+    "eatingSpeed": 64,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": true,
+    "onCrafted": {
+      "name": "ZilverItemIsCrafted"
+    }
+  }
+}

@@ -34,7 +34,7 @@ public class HamerItem extends MauricksfirstModElements.ModElement {
 	@ObjectHolder("mauricksfirst:hamer")
 	public static final Item block = null;
 	public HamerItem(MauricksfirstModElements instance) {
-		super(instance, 3);
+		super(instance, 5);
 	}
 
 	@Override

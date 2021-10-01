@@ -25,7 +25,7 @@ public class BleuleaveBlock extends MauricksfirstModElements.ModElement {
 	@ObjectHolder("mauricksfirst:bleuleave")
 	public static final Block block = null;
 	public BleuleaveBlock(MauricksfirstModElements instance) {
-		super(instance, 5);
+		super(instance, 4);
 	}
 
 	@Override

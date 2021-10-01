@@ -30,7 +30,7 @@ public class BleugrassblockBlock extends MauricksfirstModElements.ModElement {
 	@ObjectHolder("mauricksfirst:bleugrassblock")
 	public static final Block block = null;
 	public BleugrassblockBlock(MauricksfirstModElements instance) {
-		super(instance, 4);
+		super(instance, 3);
 	}
 
 	@Override
