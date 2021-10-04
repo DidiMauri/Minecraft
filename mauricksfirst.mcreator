@@ -75,6 +75,21 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cupbord"
+    },
+    {
+      "name": "Mcarmor",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mcarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     }
   ],
   "variable_elements": [],
@@ -82,11 +97,15 @@
   "language_map": {
     "en_us": {
       "block.mauricksfirst.silverblock": "Silverblock",
+      "item.mauricksfirst.mcarmor_boots": "Mcarmor Boots",
       "item.mauricksfirst.diamantapple": "Diamantapple",
       "item.mauricksfirst.zilver": "Zilver",
       "block.mauricksfirst.bleugrassblock": "Bleugrassblock",
       "block.mauricksfirst.bleuleave": "Bleuleave",
-      "item.mauricksfirst.hamer": "Hamer"
+      "item.mauricksfirst.mcarmor_helmet": "Mcarmor Helmet",
+      "item.mauricksfirst.mcarmor_leggings": "Mcarmor Leggings",
+      "item.mauricksfirst.hamer": "Hamer",
+      "item.mauricksfirst.mcarmor_chestplate": "Mcarmor Body"
     }
   },
   "foldersRoot": {

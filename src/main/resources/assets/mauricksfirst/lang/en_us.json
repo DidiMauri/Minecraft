@@ -1,8 +1,12 @@
 {
   "block.mauricksfirst.silverblock": "Silverblock",
+  "item.mauricksfirst.mcarmor_boots": "Mcarmor Boots",
   "item.mauricksfirst.diamantapple": "Diamantapple",
   "item.mauricksfirst.zilver": "Zilver",
   "block.mauricksfirst.bleugrassblock": "Bleugrassblock",
   "block.mauricksfirst.bleuleave": "Bleuleave",
-  "item.mauricksfirst.hamer": "Hamer"
+  "item.mauricksfirst.mcarmor_helmet": "Mcarmor Helmet",
+  "item.mauricksfirst.mcarmor_leggings": "Mcarmor Leggings",
+  "item.mauricksfirst.hamer": "Hamer",
+  "item.mauricksfirst.mcarmor_chestplate": "Mcarmor Body"
 }
